@@ -2,4 +2,4 @@
 
 A weekend project by Rickard Sundin.
 
-<img src="http://github.com/rickardsundin/sudoku/images/sudoku_icon.png" alt="Sudoku logo" align="right" />
+<img src="https://github.com/downloads/rickardsundin/sudoku/sudoku_icon.png" title="Sudoku logo" alt="Sudoku logo" align="right" />
